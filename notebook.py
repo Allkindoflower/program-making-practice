@@ -1,4 +1,4 @@
-
+# NotepadNotepadNotepadNotepadNotepadNotepadNotepadNotepad
 print('Your personal notepad, type "help" for a list of commands. Do not worry, there are no SECRETs here...')
 
 user_notes = []
