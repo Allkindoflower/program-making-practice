@@ -1,3 +1,1 @@
-# Random Ass Programs
-
-Bow chicka bow wow. Oooo Ahhhh
+I'm aiming to become a software developer and I make programs like these to increase my skill level.
