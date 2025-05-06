@@ -4,3 +4,6 @@ In the game's code, I have numerous functions that control the flow of the game.
 The game could be considered complete as in creating the logic and flow, only an ending and narration is not written yet.
 
 
+Update: The game is mostly complete, but only at the end, the game breaks if the player tries to put the blade on the altar without having it. I hid the choice to do that, but on 
+other playthroughs, player might try to break the game by inserting random or previously offered inputs by the game.
+
