@@ -7,7 +7,7 @@ guess = 0
 guess_count = 0
 max_guess = 3
 
-while guess != secret_number:     
+while True:     
     guess = int(input('Your guess: '))
     guess_count += 1
     if guess == secret_number:
